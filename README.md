@@ -1,3 +1,4 @@
 # FileManager
 Сделан с помощью java + JavaFX 
-Для запуска скачиваем из папки out FileMnager.jar и запускаем 
+Для запуска клонируем проект, заходим в директорию out запускаем FileManager.jar
+
